@@ -175,6 +175,7 @@ public class LOGIN extends javax.swing.JFrame {
         jLabel7.setText("Library");
         jPanel3.add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 110, -1, -1));
 
+        cover.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Assets/cover.jpeg"))); // NOI18N
         cover.setText("    ");
         jPanel3.add(cover, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 360, 400));
 
